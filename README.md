@@ -2,9 +2,7 @@
 
 I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 
-- 🔭  I’m currently working on Payoneer in the Infra UI core team.
-- 🌱  I’m currently diving into Auth2 and Node.js.
-- 👯  I’m looking to collaborate on project with a complex UI using canvas or D3js but really open for anything intersting.
+- 🔭  I’m currently working in Payoneer at the Infra UI core team.
 - 💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion on React or JS in general.
 
 <br>
