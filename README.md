@@ -30,12 +30,20 @@ I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 <br>
 
 ## 🌎  Where to find me
-
-[![Github](https://camo.githubusercontent.com/64271b7abdea5f50c23a3717d767e05ffa845085a3e74fcb57afeb592377f2b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465)](https://github.com/BenGedi)
-[![Codepen](https://camo.githubusercontent.com/fa7600152943050ca3e454f300415ffeeb1051a21da7894a74a99e19d18a1baa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465)](https://codepen.io/bengedi)
-[![Linkedin](https://camo.githubusercontent.com/f4ee3825bee1ba1fe8ba93c3903dd2f1b7af9ff0f7fbc8fe036fe4386f574705/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/ben-gedi-36943515/)
-[![Gmail](https://camo.githubusercontent.com/3497f4f7905bf0a72f7a79d7390c46fd6b573d21709baab33f490d70ecc82504/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:bengedi@gmail.com)
-
+<div>
+  <a href="https://github.com/BenGedi" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/bengedi" target="_blank">
+    <img alt="Codepen" src="https://img.shields.io/badge/-Codepen-%2312100E.svg?&style=for-the-badge&logo=codepen" />
+  </a>
+  <a href="https://www.linkedin.com/in/ben-gedi-36943515/" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/-Linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&color=0077B5" />
+  </a>
+  <a href="mailto:bengedi@gmail.com" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/-Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&color=EA4336&logoColor=white" />
+  </a>
+</div>
 
 
 <br>
