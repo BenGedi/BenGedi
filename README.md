@@ -40,13 +40,14 @@ I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 
 <br>
 <h2>📈  Some Github Stats</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenGedi&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BenGedi&layout=compact&langs_count=8&theme=algolia"/>
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <div style="display: flex;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenGedi&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BenGedi&layout=compact&langs_count=8&theme=algolia"/>
+  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
 
 ![👋🏻](https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866dffbf9d73abe425745d4133f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f54683357616c6c2f6173736574732d63646e2f506572736f6e616c476974687562526561646d652f48616e6447726565742e676966)
