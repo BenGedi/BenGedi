@@ -37,11 +37,14 @@ I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
   <a href="https://codepen.io/bengedi" target="_blank">
     <img alt="Codepen" src="https://img.shields.io/badge/-Codepen-%2312100E.svg?&style=for-the-badge&logo=codepen" />
   </a>
+  <a href="https://codesandbox.io/u/BenGedi" target="_blank">
+    <img alt="Codesandbox" src="https://img.shields.io/badge/-Codesandbox-%2312100E.svg?&style=for-the-badge&logo=codesandbox" />
+  </a>
   <a href="https://www.linkedin.com/in/ben-gedi-36943515/" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/-Linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&color=0077B5" />
   </a>
   <a href="mailto:bengedi@gmail.com" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/-Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&color=EA4336&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&color=EA4336&logoColor=white" />
   </a>
 </div>
 
@@ -56,7 +59,9 @@ I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenGedi&theme=algolia"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BenGedi&layout=compact&langs_count=8&theme=algolia"/>
   </div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <a href="#" target="_blank" style="display: block; height:10px;line-height: 10px;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </a>
 </div>
 <!--
 
