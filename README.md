@@ -49,7 +49,9 @@ I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 <br>
 <h2>📈  Some Github Stats</h2>
 <div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <a href="#" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </a>
   <div style="display: flex;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenGedi&theme=algolia"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BenGedi&layout=compact&langs_count=8&theme=algolia"/>
