@@ -2,7 +2,7 @@
 
 I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 
-- 🔭  I’m currently working in Cloudinary at the Infra UI core team.
+- 🔭  I’m currently working in Blackore.
 - 💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion on React or JS in general.
 
 <br>
