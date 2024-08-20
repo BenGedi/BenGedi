@@ -2,7 +2,7 @@
 
 I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 
-- 🔭  I’m currently working in [Snapify](https://www.snapify.ai/).
+- 🔭  I’m currently working in [Riverbed](https://www.riverbed.com/).
 - 💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion on React or JS in general.
 
 <br>
