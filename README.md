@@ -16,7 +16,7 @@ I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 ![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=Reactrouter)&nbsp;
 ![Mobx](https://img.shields.io/badge/-Mobx-05122A?style=flat&logo=mobx)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
-![D3.js](https://img.shields.io/badge/-D3.js-05122A?style=flat&logo=d3.js)&nbsp;
+![D3js](https://img.shields.io/badge/-D3.js-05122A?style=flat&logo=d3js)&nbsp;
 ![Leaflet](https://img.shields.io/badge/-Leaflet-05122A?style=flat&logo=leaflet&logoColor=199900)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint&logoColor=4B32C3)&nbsp;
