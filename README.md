@@ -12,20 +12,25 @@ I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=2565F1)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=indigo)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![recoil](https://img.shields.io/badge/-Recoil-05122A?style=flat&logo=recoil)&nbsp;
 ![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=Reactrouter)&nbsp;
 ![Mobx](https://img.shields.io/badge/-Mobx-05122A?style=flat&logo=mobx)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
-![D3js](https://img.shields.io/badge/-D3.js-05122A?style=flat&logo=d3js)&nbsp;
+![D3](https://img.shields.io/badge/-D3-05122A?style=flat&logo=d3)&nbsp;
 ![Leaflet](https://img.shields.io/badge/-Leaflet-05122A?style=flat&logo=leaflet&logoColor=199900)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint&logoColor=4B32C3)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+![PNPM](https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=005BA4)&nbsp;
+![Material-ui](https://img.shields.io/badge/-Mui-05122A?style=flat&logo=mui)&nbsp;
+![Prime React](https://img.shields.io/badge/-PrimeReact-05122A?style=flat&logo=primereact)&nbsp;
 
 <br>
 
