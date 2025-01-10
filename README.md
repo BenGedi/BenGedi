@@ -29,7 +29,7 @@ I'm Ben, Front End developer from 🇮🇱 Hod Hasharon, Israel.
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
 ![PNPM](https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)&nbsp;
-![Material-ui](https://img.shields.io/badge/-Mui-05122A?style=flat&logo=mui)&nbsp;
+![Material-ui](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui)&nbsp;
 ![Prime React](https://img.shields.io/badge/-PrimeReact-05122A?style=flat&logo=primereact)&nbsp;
 
 <br>
