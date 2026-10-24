@@ -19,7 +19,7 @@
 
 ## ⚡ About me
 
-- 🔭 Senior Frontend Engineer at **[Riverbed](https://www.riverbed.com/)**: sole frontend engineer on the Agent Lifecycle Management Platform, and maintainer of the shared design system used across all Aternity products.
+- 🔭 Senior Frontend Engineer at **[Riverbed](https://www.riverbed.com/)**: sole frontend engineer on the Agent Lifecycle Management Platform, and maintainer of the shared design system and its Storybook docs, used across all Aternity products.
 - 🤖 I run delivery with an AI workflow I designed: **Claude Code agents connected over MCP** to Jira, Bitbucket and the browser take each ticket from plan to code to tests to PR.
 - 🌱 Currently building an **AI agent that migrates Angular apps to React + TypeScript**.
 - 💬 Ask me about frontend architecture, design systems, AI agents and MCP.
